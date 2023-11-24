@@ -2,7 +2,7 @@
 A point-graph solution for Nova UI.
 
 
-https://github.com/CoffeeIsDead/Nova-UI-Graph/assets/92136387/928ff7dd-3d12-46ee-930f-91b61327296e
+https://github.com/CoffeeIsDead/Nova-UI-Graph/assets/92136387/42dca8f4-a55b-4d54-a634-6a94e2112711
 
 
 Requirments:
